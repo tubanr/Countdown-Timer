@@ -1,0 +1,76 @@
+span#jqcd_count {
+    font-size: 20pt;
+    font-weight: bold;
+  }
+  input#jqcd_start,
+  input#jqcd_stop,
+  input#jqcd_reset {
+    font-size: 12pt;
+    font-weight: bold;
+  }
+  input#jqcd_start,
+  input#jqcd_stop,
+  input#jqcd_reset {
+    width: 100px;
+  }
+  span#jqcd_count {
+    font-family: "Lucida Console", Monaco, "Courier New", Courier, monospace !IMPORTANT;
+  }
+  #hms{
+      background-color: #f6f8fb;
+      margin-top: 10%;
+      height: 300px;
+      font-size: 60px;position: relative;
+  }
+  ::-webkit-input-placeholder {
+    font-size: 250px;
+ }
+ 
+ :-moz-placeholder { /* Firefox 18- */
+       font-size: 250px;
+ }
+ 
+ ::-moz-placeholder {  /* Firefox 19+ */
+       font-size: 250px;
+ }
+ 
+ /* Overriding styles */
+ 
+ ::-webkit-input-placeholder {
+    font-size: 130px!important;
+ }
+ 
+ :-moz-placeholder { /* Firefox 18- */
+       font-size: 13px!important;
+ }
+ ::-moz-placeholder {  /* Firefox 19+ */
+       font-size: 130px!important;
+ }
+  .btn-circle.btn-xl { 
+    width: 200px; 
+    height: 200px; 
+    padding: 10px 16px; 
+    border-radius: 200px; 
+    background-color:#f6f8fb ;
+    font-size: 35px; 
+    color: gray;
+    border-color: gray;
+    text-align: center; 
+    margin-top: 3%;
+    right: 40%;
+    position: absolute;
+} 
+    .btn-primary.custom-btn {
+        background-color: #000;
+        border-color: #000;
+    }
+#repeat{
+    right: 24%;
+
+}
+#count{
+    position: relative;
+    font-size: 25px;
+}
+
+
